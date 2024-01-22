@@ -15,6 +15,7 @@ This is another para.
 In this one we show some lists. just start the lista on the next line after hitting one return:
 - an item
 - another item
+-a third item
 
 In this new para we create a numbered list using numbers.
 1. first item
